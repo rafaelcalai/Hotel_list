@@ -1,0 +1,22 @@
+# ninja log v5
+11	7949	1690230224247114610	CMakeFiles/Hotel_list.dir/sourceFiles/main_window.cpp.o	3042fb5fe8f85433
+12	7711	1690230224007124853	CMakeFiles/Hotel_list.dir/sourceFiles/columns.cpp.o	8dc2d6f7cac066b
+0	104	1690230898560741211	build.ninja	ba741a471449d633
+9	5308	1690230395948353872	CMakeFiles/Hotel_list.dir/main.cpp.o	4398c30d31fb94c9
+5309	5845	1690230396484334197	Hotel_list	b9a42d851abda4ef
+1	126	1690230898560741211	build.ninja	ba741a471449d633
+8	6360	1690230904948498463	CMakeFiles/Hotel_list.dir/main.cpp.o	4398c30d31fb94c9
+10	6120	1690230922347839655	CMakeFiles/Hotel_list.dir/sourceFiles/main_window.cpp.o	3042fb5fe8f85433
+6121	6659	1690230922887819264	Hotel_list	b9a42d851abda4ef
+3	14	0	clean	db71df1b0da7c4ce
+10	5909	1690231111116889585	CMakeFiles/Hotel_list.dir/main.cpp.o	4398c30d31fb94c9
+13	5923	1690231111132889010	CMakeFiles/Hotel_list.dir/sourceFiles/columns.cpp.o	8dc2d6f7cac066b
+12	6015	1690231111224885700	CMakeFiles/Hotel_list.dir/sourceFiles/main_window.cpp.o	3042fb5fe8f85433
+6016	6546	1690231111752866704	Hotel_list	b9a42d851abda4ef
+4	15	0	clean	db71df1b0da7c4ce
+12	5988	1690231129696222422	CMakeFiles/Hotel_list.dir/main.cpp.o	4398c30d31fb94c9
+13	6024	1690231129736220989	CMakeFiles/Hotel_list.dir/sourceFiles/main_window.cpp.o	3042fb5fe8f85433
+14	6034	1690231129748220558	CMakeFiles/Hotel_list.dir/sourceFiles/columns.cpp.o	8dc2d6f7cac066b
+6034	6573	1690231130284201351	Hotel_list	b9a42d851abda4ef
+8	5553	1690231440901370213	CMakeFiles/Hotel_list.dir/sourceFiles/main_window.cpp.o	3042fb5fe8f85433
+5554	6128	1690231441473350719	Hotel_list	b9a42d851abda4ef
