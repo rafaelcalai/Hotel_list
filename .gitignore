@@ -31,5 +31,9 @@
 *.out
 *.app
 
+#cmake
+cmake-build-debug
+!cmake-build-debug/build.ninja
+
 #Clion
 .idea

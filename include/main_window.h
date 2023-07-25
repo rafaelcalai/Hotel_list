@@ -16,7 +16,10 @@ private:
     TreeView tree;
     Columns columns;
     Glib::RefPtr<ListStore> model;
+    int error;
 public:
     MainWindow();
+    int get_error();
+    void set_error(int _error);
 };
 #endif //HOTEL_LIST_MAIN_WINDOW_H
